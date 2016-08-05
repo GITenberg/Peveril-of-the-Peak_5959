@@ -1,0 +1,40 @@
+_repo: Peveril-of-the-Peak_5959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "Peveril of the Peak (1823) is the longest novel by Sir Walter Scott.\
+  \ Along with Ivanhoe, Woodstock and Kenilworth, this is one of Scott's English novels,\
+  \ with the main action taking place around 1678.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5959'
+  wikidata: Q3061309
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Peveril of the Peak
+url: http://www.gutenberg.org/ebooks/5959
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D5%8A%D6%87%D5%A5%D6%80%D5%AB%D5%AC_%D5%8A%D5%AB%D5%AF
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B2%D0%B5%D1%80%D0%B8%D0%BB_%D0%9F%D0%B8%D0%BA
+- https://fr.wikipedia.org/wiki/Peveril_du_Pic
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%81%D9%8A%D8%B1%D9%8A%D9%84_%D9%85%D9%86_%D8%A7%D9%84%D9%82%D9%85%D8%A9
+- https://en.wikipedia.org/wiki/Peveril_of_the_Peak
