@@ -1,5 +1,8 @@
 _repo: Peveril-of-the-Peak_5959
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -16,6 +19,8 @@ creator:
 description: "Peveril of the Peak (1823) is the longest novel by Sir Walter Scott.\
   \ Along with Ivanhoe, Woodstock and Kenilworth, this is one of Scott's English novels,\
   \ with the main action taking place around 1678.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5959#Peveril-of-the-Peak
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
